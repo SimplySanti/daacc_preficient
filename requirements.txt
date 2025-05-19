@@ -7,3 +7,4 @@ openpyxl
 jupyter
 ipykernel
 seaborn
+folium
