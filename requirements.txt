@@ -7,3 +7,5 @@ openpyxl
 jupyter
 ipykernel
 seaborn
+folium
+geopandas
