@@ -1,0 +1,16 @@
+Sensor_id,Zona,Calle,Municipio,CP,Latitud,Longitud,Sistema,Bot_id,USE_IN_BOTS,website_visible
+ANL1,Guadalupe,AV. ELOY CAVAZOS Y PABLO LIVAS,Guadalupe,67140,25.67,-100.25,AireNuevoLeon,3,1,1
+ANL10,Apodaca,MARIANO ABASOLO,Apodaca,66000,25.78,-100.17,AireNuevoLeon,3,1,1
+ANL11,Monterrey,PREPA TEC GARZA LAGUERA,Monterrey,64989,25.62,-100.27,AireNuevoLeon,3,1,1
+ANL12,Obispado,5 DE MAYO,Monterrey,64040,25.68,-100.34,AireNuevoLeon,3,1,1
+ANL13,Juarez,LAZARO GARZA AYALA ESQ. CON GRAL. SANTIAGO TAPIA,Juárez,67250,25.65,-100.1,AireNuevoLeon,3,1,1
+ANL15,Pesqueria,Boulevard Rogelio A. Pérez Arrambide,Pesquería,66650,25.79,-100.08,AireNuevoLeon,3,1,1
+ANL16,San Juan,"Av. Misión Arcos 69, Misión San Juan",García,66023,25.785,-100.464,AireNuevoLeon,3,1,1
+ANL2,San Nicolás,ANTONIO SOTO Y GAMMA ESQ. CON ALAMO,San Nicolás de los Garza,66440,25.75,-100.26,AireNuevoLeon,3,1,1
+ANL3,Santa Catarina,"PARQUE JAROCHO, JARDINES DE DANTA CATARINA",Santa Catarina,66350,25.68,-100.47,AireNuevoLeon,3,1,1
+ANL4,San Pedro,GRAL. GARZA AYALA ESQUINA CON DIEGO SALDÍVAR,San Pedro,66280,25.67,-100.41,AireNuevoLeon,3,1,1
+ANL5,San Nicolás (UANL),"CIUDAD UNIVERSITARIA, FAC CONTADURIA",San Nicolás de los Garza,66451,25.73,-100.31,AireNuevoLeon,3,1,1
+ANL6,García,PRESIDENCIA MUNICIPAL DE GARCIA,García,66004,25.8,-100.58,AireNuevoLeon,3,1,1
+ANL7,San Bernabé,"PROL AZTLAN 9610, SAN BERNABE VIII SECTOR",Monterrey,64217,25.76,-100.37,AireNuevoLeon,3,1,1
+ANL8,Cadereyta,CAMPESINA CRUZ CON VICENTE GUERRERO,Cadereyta Jiménez,67483,25.6,-99.99,AireNuevoLeon,3,1,1
+ANL9,Escobedo,"MARGARITAS 225, LOS OLIVOS",General Escobedo,66070,25.8,-100.33,AireNuevoLeon,3,1,1
